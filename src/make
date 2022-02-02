@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+gcc stack.c -o stack
